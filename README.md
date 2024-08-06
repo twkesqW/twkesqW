@@ -5,7 +5,7 @@
     
 <div align="center">
 <img src = "https://i.pinimg.com/564x/0d/69/f1/0d69f1c3b2aee2f9fca2b0b81abb16bb.jpg"/><br/>
-<b><i>I'm Oleksandr - developer from Ukraine</i></b><br/>
+<h3><b>I'm Oleksandr - developer from Ukraine</b></h3><br/>
 Studing frontend and mobile development<br/>
 Currently learn Android Development - KMP with Jetpack Compose
 </div>
