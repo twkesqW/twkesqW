@@ -6,16 +6,15 @@
 <div align="center">
 <img src = "https://i.pinimg.com/564x/0d/69/f1/0d69f1c3b2aee2f9fca2b0b81abb16bb.jpg"/><br/>
 <h3><b>I'm Oleksandr - developer from Ukraine</b></h3><br/>
-Studing frontend and mobile development<br/>
-Currently learn Android Development - KMP with Jetpack Compose
+<---Studing frontend and mobile development---><br/>
+<---Currently learn Android Development - KMP with Jetpack Compose--->
 </div>
 
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,wasm,react,vue,sass,npm,yarn,nodejs,vite,tailwind,redux,pinia,nextjs" /><br/>
-    <img src="https://skillicons.dev/icons?i=java,kotlin,dart,ktor,androidstudio" /><br/>
-    <img src="https://skillicons.dev/icons?i=py,fastapi" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,dart,ktor,androidstudio,py,fastapi" /><br/>
   </a>
 </p>
 
